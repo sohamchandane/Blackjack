@@ -1,0 +1,29 @@
+body{
+    background-color: rgb(14, 145, 14);
+    text-align: center;
+}
+
+h1{
+    color: rgb(255, 255, 68);
+    margin: 3% 0;
+}
+
+p{
+    padding: 0.5rem;
+    font-weight: bolder;
+}
+
+button{
+    width: 9rem;
+    height: 2rem;
+    margin: 1rem 1rem;
+    background-color: gold;
+    font-weight: bolder;
+    border: 0.1rem solid black;
+    border-radius: 0.8rem;
+    font-size: 1.1rem;
+}
+
+button:hover{
+    background-color: yellow;
+}
